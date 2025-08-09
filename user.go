@@ -1,8 +1,5 @@
 package main
-/*echo "# assignment1-GO" >> README.md
-git init
-git add README.md
-import "fmt"
+/*
 
 type user struct {
 	Name string

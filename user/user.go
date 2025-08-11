@@ -1,6 +1,10 @@
 package main
+<<<<<<< HEAD:user/user.go
 
 import "fmt"
+=======
+/*
+>>>>>>> 288be1476cfd37367511c568e4452ce3bb23be3c:user.go
 
 type user struct {
 	Name string
@@ -70,3 +74,7 @@ func main(){
 
 	}
 }
+<<<<<<< HEAD:user/user.go
+=======
+	*/
+>>>>>>> 288be1476cfd37367511c568e4452ce3bb23be3c:user.go

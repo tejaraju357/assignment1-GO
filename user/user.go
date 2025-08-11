@@ -1,7 +1,5 @@
 package main
-/*echo "# assignment1-GO" >> README.md
-git init
-git add README.md
+
 import "fmt"
 
 type user struct {
@@ -21,8 +19,9 @@ func main(){
 		fmt.Println("4. exit")
 
 		var choice int
-		fmt.Println("enter the number")
+		fmt.Print("enter the number : ")
 		fmt.Scan(&choice)
+		fmt.Println()
 
 		switch choice{
 		case 1 : 
@@ -71,4 +70,3 @@ func main(){
 
 	}
 }
-	*/
